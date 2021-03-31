@@ -5,4 +5,10 @@ Using Machine Learning Techniques for Detecting Trolls and Statistical Analysis 
 2. The 'Documentation' folder contains the presentation and project report
 3. The 'Images and Visualization' folder contains various charts, screenshots and images used in our report.
 4. The main source file is contained in the 'Twitter Troll Detection Jupyter File' folder while the 'Python files' folder contains 
-   the python files of the functions which is are creted in the project. 
+   the python files of the functions which are creted in the project. 
+   
+###In order to work on this project one should have the twitter's developers account, the consumer key and access key generated are used for extracting data from twitter.
+
+###Python should be installed in the system along with various libraries used in the project
+
+###MongoDB database should be installed to store the extracted data from twitter.
